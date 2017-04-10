@@ -1,0 +1,47 @@
+{
+    "trunk": {
+        "curation": "trunk-v1-api-us.crackle.com",
+        "geo": "crackle-ms-geo-qat.cloudapp.net",
+        "whitelist": "crackle-ms-geo-qat.cloudapp.net",
+        "errorHandlerOptions": {
+            "dumpExceptions": true,
+            "showStack": true
+        }
+    },
+    "qat": {
+        "curation": "qat-v1-api-us.crackle.com",
+        "geo": "crackle-ms-geo-qat.cloudapp.net",
+        "whitelist": "crackle-ms-geo-qat.cloudapp.net",
+        "errorHandlerOptions": {
+            "dumpExceptions": true,
+            "showStack": true
+        }
+    },
+    "qas": {
+        "curation": "qas-v1-api-us.crackle.com",
+        "geo": "crackle-ms-geo-qat.cloudapp.net",
+        "whitelist": "crackle-ms-geo-qat.cloudapp.net",
+        "errorHandlerOptions": {
+            "dumpExceptions": false,
+            "showStack": false
+        }
+    },
+    "staging": {
+        "curation": "staging-v1-api-us.crackle.com",
+        "geo": "crackle-ms-geo-qat.cloudapp.net",
+        "whitelist": "crackle-ms-geo-qat.cloudapp.net",
+        "errorHandlerOptions": {
+            "dumpExceptions": false,
+            "showStack": false
+        }
+    },
+    "production": {
+        "curation": "prod-v1-api-us.crackle.com",
+        "geo": "crackle-ms-geo-qat.cloudapp.net",
+        "whitelist": "crackle-ms-geo-qat.cloudapp.net",
+        "errorHandlerOptions": {
+            "dumpExceptions": false,
+            "showStack": false
+        }
+    }
+}
